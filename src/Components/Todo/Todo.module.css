@@ -1,0 +1,48 @@
+.button {
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    font-size: 14px;
+}
+
+.input {
+    display: flex;
+    min-width: 300px;
+    justify-content: space-evenly;
+    font-size: 14px;
+    padding: 1rem;
+}
+
+input {
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.TodoItem {
+    margin: 1rem;
+    min-width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.span {
+    min-width: 200px;
+}
+.deleteBtn {
+    background: red;
+    color: black;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.toggleBtn {
+    background: yellow;
+    color: black;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
